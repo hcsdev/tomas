@@ -1,3 +1,3 @@
 <?php
 
-echo "Welcome";
+var_dump($_SERVER);
